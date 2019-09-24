@@ -7,4 +7,4 @@ I have been documented as good as I know.
 
 ###### Ordered list of crackmes:
 
-	1. evilprogrammer 	- mexican	- (./evilprogrammer) 
+	1. evilprogrammer 	- [mexican](./evilprogrammer)  

@@ -2,8 +2,9 @@
 ### https://crackmes.one/crackme/5d63011533c5d46f00e2c305
 
 ## Crackme by [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
+#### Date: 19/sep/2019 
 
-- Used **x64dbg** debbuger.
+- Used **x64dbg** debugger.  
 
 #### Some notes to get the flag and create the patch
 

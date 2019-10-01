@@ -10,7 +10,7 @@ All these solutions are the result of my learning, so it is very likely that the
 
 ###### Ordered list of crackmes:
 
-1. [evilprogrammer - mexican # (Win32)](https://github.com/gabimarti/crackmes.one-solutions/tree/master/evilprogrammer-mexican) 
+1. Win32 - **evilprogrammer** - [mexican](https://github.com/gabimarti/crackmes.one-solutions/tree/master/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
 
 
 

@@ -16,10 +16,12 @@ All these solutions are the result of my learning, so it is very likely that the
 
 ###### crackmes.one
 
-1. Win32 - **evilprogrammer** - [mexican](https://github.com/gabimarti/crackmes-solutions/tree/master/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
+1. Win32 - **evilprogrammer** - [mexican](./tree/master/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
 
 
 ###### diverse & unknown
+
+1. Linux - **gc** - [reverse1](./tree/master/diverse/gc-reverse1/gc-reverse1.md) 
 
 
 #### Contact

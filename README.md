@@ -16,7 +16,7 @@ All these solutions are the result of my learning, so it is very likely that the
 
 ###### crackmes.one
 
-1. Win32 - **evilprogrammer** - [mexican](./tree/master/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
+1. Win32 - **evilprogrammer** - [mexican](tree/master/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
 
 
 ###### diverse & unknown

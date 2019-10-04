@@ -36,7 +36,7 @@ Simply, we verify that this is really the result of that code.
 
 - And here we have the result!
 
-![reverse1_07](gc-reverse1-07.jpg "result "Felicidades!!!")
+![reverse1_07](gc-reverse1-07.jpg "result 'Felicidades!!!'")
 
 
 

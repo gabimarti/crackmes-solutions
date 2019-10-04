@@ -1,7 +1,7 @@
 # [gc's reverse1]()
 ### no source provided
 
-This binary was sent to me by a friend. He was also sent another person and the source is unknown.
+This binary was sent to me by a friend. He was also sent another person and the source is unknown. In this same folder you can download the binary.
 
 #### Date: 03/oct/2019 
 
@@ -29,6 +29,14 @@ To solve this crack I used my **Kali Linux VM** and the **edb debugger** that we
 Simply, we verify that this is really the result of that code.
 
 ![reverse1_05](gc-reverse1-05.jpg "todo_normal")
+
+- Here we can see the code that loads the two text strings and calls the function that compares them and then checks the result to see if they are the same.
+
+![reverse1_06](gc-reverse1-06.jpg "load strings to compare")
+
+- And here we have the result!
+
+![reverse1_07](gc-reverse1-07.jpg "result "Felicidades!!!")
 
 
 

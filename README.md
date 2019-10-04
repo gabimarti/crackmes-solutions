@@ -11,8 +11,10 @@ In many cases, the notes taken in each crackme do not have a sequential or chron
 
 All these solutions are the result of my learning, so it is very likely that they contain some errors, of concept, of procedure or even of interpretation of the code. Use it as a guide but you are welcome to comment or correct or anything you do not consider correct.
 
+Little by little I will be adding crackmes. It all depends on the time I have available.
 
-##### Ordered list of crackmes:
+
+#### Ordered list of crackmes
 
 ###### crackmes.one
 
@@ -29,3 +31,6 @@ All these solutions are the result of my learning, so it is very likely that the
 Twitter: [**@H0l3Bl4ck**](https://twitter.com/H0l3Bl4ck)
 
 
+#### Notice
+
+I advise you to ***always use a virtual machine*** to avoid problems of interaction with your system. And also that you check the executables with an ***antivirus***, or send them to [Virus Total](https://www.virustotal.com) or similar tools to prevent them from sneaking a program that could be **"something more"** than a crackme.

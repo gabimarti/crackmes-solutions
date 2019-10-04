@@ -1,7 +1,11 @@
-# crackmes.one - solutions
-My solutions to some crackmes of crackmes.one
+# crackmes - solutions
+My solutions to some crackmes that I have been collecting from the internet.
 
-In this repository I will be adding the information of different crackmes that I have been doing (simply for fun and learn). I have been documented as good as I know.
+I have been doing (simply for fun and learn) and documented as good as I know.
+
+Are ordered them by folders to classify them by different sources.
+
+If you want to send me some crackme, contact me on Twitter.
 
 In many cases, the notes taken in each crackme do not have a sequential or chronological order. They have only been added as they have been checking or detecting different functions or features. They are simply data that globally serve us to understand some parts of the whole. You have to understand that the reversing process involves following the code many times in many different ways and not everything looks the same way and at the same time.
 
@@ -10,7 +14,7 @@ All these solutions are the result of my learning, so it is very likely that the
 
 ###### Ordered list of crackmes:
 
-1. Win32 - **evilprogrammer** - [mexican](https://github.com/gabimarti/crackmes.one-solutions/tree/master/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
+1. Win32 - **evilprogrammer** - [mexican](https://github.com/gabimarti/crackmes-solutions/tree/master/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
 
 
 

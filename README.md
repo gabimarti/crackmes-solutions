@@ -21,7 +21,7 @@ All these solutions are the result of my learning, so it is very likely that the
 
 ###### diverse & unknown
 
-1. Linux - **gc** - [reverse1](./tree/master/diverse/gc-reverse1/gc-reverse1.md) 
+1. Linux - **gc** - [reverse1](/diverse/gc-reverse1/gc-reverse1.md) 
 
 
 #### Contact

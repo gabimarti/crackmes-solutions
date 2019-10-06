@@ -20,6 +20,7 @@ Little by little I will be adding crackmes. It all depends on the time I have av
 
 1. Win32 - **evilprogrammer** - [mexican](/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
 2. Win32 - **toaster** - [VIP_access_me](/crackmes.one/toaster-VIP_access_me/b1h0-toaster.vip_access_me.md)
+3. Win64 - **whitecr0w** - [Easy_Peasy](/crackmes.one/whitecr0w-Easy_Peasy/b1h0-whitecr0w_Easy_Peasy.md)
 
 
 ###### diverse & unknown

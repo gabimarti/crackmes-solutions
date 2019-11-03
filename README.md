@@ -26,7 +26,7 @@ Little by little I will be adding crackmes. It all depends on the time I have av
 ###### diverse & unknown
 
 1. Linux - **gc** - [reverse1](/diverse/gc-reverse1/gc-reverse1.md) 
-
+2. Win32 - **unknown** [Crackme#00](/diverse/crackme-00/b1h0-CrackMe#00.md) 
 
 #### Contact
 

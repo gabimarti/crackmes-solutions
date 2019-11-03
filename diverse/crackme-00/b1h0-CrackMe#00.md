@@ -4,7 +4,7 @@
 ## Crackme by [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 03/nov/2019 
 
-You can download it from this [link](CrackMe#00-pass-1337.7z) . The password is **1337**.
+You can download it from this [link](CrackMe%2300-pass-1337.7z) . The password is **1337**.
 
 **Attention!!!!** Maybe it's a false positive. But it should be alert. **Hybrid Analysis** whitelisted this file, but can be a Trojan.
 

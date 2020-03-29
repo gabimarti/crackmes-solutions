@@ -4,7 +4,7 @@
 ## Crackme by [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 29/mar/2020 
 
-You can download **CrackMe#01.exe** from this [link](CrackMe%2301.exe).
+You can download **CrackMe#01.exe** from this [link](CrackMe%2301.zip).
 
 To analyze this file I have used **Ghidra** and **x64dbg**, simply by trying both tools and seeing the differences. It is good to contrast and train in both static and dynamic.
  

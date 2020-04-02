@@ -31,6 +31,7 @@ Little by little I will be adding crackmes. It all depends on the time I have av
 1. Linux - **gc** - [reverse1](/diverse/gc-reverse1/gc-reverse1.md) 
 2. Win32 - **unknown** - [Crackme#00](/diverse/crackme-00/b1h0-CrackMe%2300.md) 
 3. Win32 - **unknown** - [Crackme#01](/diverse/crackme-01/b1h0-CrackMe%2301.md) 
+4. Win32 - **unknown** - [crackme-easy-1](/diverse/crackme-easy/b1h0-crackme-easy-1.md) 
 
 
 #### Contact

@@ -6,6 +6,7 @@
 
 [Download **crackme-easy-1** from this link](crackme-easy-1.zip). 
 
+I am going to solve this crackme using only static analysis and I am also going to generate a small program to give us the solution to the password we need.
 
 ## Ghidra analysis
 

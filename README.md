@@ -1,7 +1,8 @@
 # crackmes - solutions
+
 My solutions to some crackmes that I have been collecting from the internet.
 
-I have been doing (simply for fun and learn) and documented as good as I know.
+I have been doing (*simply for fun and learn*) and documented as good as I know.
 
 Are ordered them by folders to classify them by different sources.
 
@@ -13,8 +14,27 @@ All these solutions are the result of my learning, so it is very likely that the
 
 Little by little I will be adding crackmes. It all depends on the time I have available.
 
+## Tools
 
-#### Ordered list of crackmes
+There are multiple tools that you can use for reverse engineering, but I basically use two programs.
+
+For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sre.org/), and for dynamic analysis I use the debugger **x64dbg** [https://x64dbg.com/](https://x64dbg.com/).
+
+## Ordered list of crackmes
+
+###### IOLI-crackme
+
+1.  Win32 - **Level 0x00** - [b1h0-ioli-crackme0x00.md](ioli/b1h0-ioli-crackme0x00.md)
+2.  Win32 - **Level 0x01** - [b1h0-ioli-crackme0x01.md](ioli/b1h0-ioli-crackme0x01.md)
+3.  Win32 - **Level 0x02** - [b1h0-ioli-crackme0x02.md](ioli/b1h0-ioli-crackme0x02.md)
+4.  Win32 - **Level 0x03** - [b1h0-ioli-crackme0x03.md](ioli/b1h0-ioli-crackme0x03.md)
+5.  Win32 - **Level 0x04** - [b1h0-ioli-crackme0x04.md](ioli/b1h0-ioli-crackme0x04.md)
+6.  Win32 - **Level 0x05** -
+7.  Win32 - **Level 0x06** -
+8.  Win32 - **Level 0x07** -
+9.  Win32 - **Level 0x08** -
+10. Win32 - **Level 0x09** -
+
 
 ###### crackmes.one
 
@@ -22,9 +42,11 @@ Little by little I will be adding crackmes. It all depends on the time I have av
 2. Win32 - **toaster** - [VIP_access_me](/crackmes.one/toaster-VIP_access_me/b1h0-toaster.vip_access_me.md)
 3. Win64 - **whitecr0w** - [Easy_Peasy](/crackmes.one/whitecr0w-Easy_Peasy/b1h0-whitecr0w_Easy_Peasy.md)
 
+
 ###### underc0de.org
 
 1. Win32 - **Flamer** - [Crackme Roca](/UnderC0de/UnderC0de_Crackme_Roca/b1h0-Crackme_Roca.md)
+
 
 ###### diverse & unknown
 

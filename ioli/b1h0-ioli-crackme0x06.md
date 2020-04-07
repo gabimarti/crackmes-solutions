@@ -38,7 +38,7 @@ Apparently it checks to see if there is an environment variable called **LOLO**,
 
 Let's check all this ...
 
-![crackme_005](crackme0x06-005.png "result") 
+![crackme_005](crackme0x06-005.png "result")  
 
 
 # That's all folks!

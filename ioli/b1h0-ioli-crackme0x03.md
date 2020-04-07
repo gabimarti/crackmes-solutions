@@ -5,6 +5,8 @@
 
 You can download **crackme0x03.exe** from this [link](crackme0x03.exe). 
 
+To solve this cackme we will only use static analysis.
+
 
 ## Ghidra analysis
 

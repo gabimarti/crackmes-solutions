@@ -5,7 +5,7 @@
 
 You can download **crackme0x04.exe** from this [link](crackme0x04.exe). 
 
-To analyze this crackme I will use static analysis with **Ghidra** and dynamic with **x64dbg** to be able to follow up on the operations and values in memory.
+To solve this cackme we will only use static analysis.
 
 
 ## Ghidra analysis

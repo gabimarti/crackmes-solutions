@@ -41,7 +41,7 @@ Let's now look at the **FUN_0040139e_check_LOL_even** function
 
 ![crackme_005](crackme0x07-005.png "check_LOL_even") 
 
-Here we can see that the function **FUN_00401310_check_LOL()** is called and then it checks if the number is even.
+Here we can see that the function **FUN_00401310_check_LOL()** is called and then it checks if the number is **even**.
 
 But below we see a second check with another flag in memory that we call **__DAT_00406030_LOL_EXIST** in which it checks if it has the value **1**. It is actually a double check, since the same previous function already returns 1 or 0 if the **LOL** variable exists.
 

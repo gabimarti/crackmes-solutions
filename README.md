@@ -32,7 +32,7 @@ For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sr
 6.  Win32 - **Level 0x05** - [b1h0-ioli-crackme0x05.md](ioli/b1h0-ioli-crackme0x05.md)
 7.  Win32 - **Level 0x06** - [b1h0-ioli-crackme0x06.md](ioli/b1h0-ioli-crackme0x06.md)
 8.  Win32 - **Level 0x07** - [b1h0-ioli-crackme0x07.md](ioli/b1h0-ioli-crackme0x07.md)
-9.  Win32 - **Level 0x08** -
+9.  Win32 - **Level 0x08** - [b1h0-ioli-crackme0x08.md](ioli/b1h0-ioli-crackme0x08.md)
 10. Win32 - **Level 0x09** -
 
 

@@ -14,7 +14,7 @@ In all cases it is a matter of solving a password, but in each of the levels the
 5.  Level 0x04: [b1h0-ioli-crackme0x04.md](b1h0-ioli-crackme0x04.md)
 6.  Level 0x05: [b1h0-ioli-crackme0x05.md](b1h0-ioli-crackme0x05.md)
 7.  Level 0x06: [b1h0-ioli-crackme0x06.md](b1h0-ioli-crackme0x06.md)
-8.  Level 0x07: 
+8.  Level 0x07: [b1h0-ioli-crackme0x07.md](b1h0-ioli-crackme0x07.md)
 9.  Level 0x08: 
 10. Level 0x09:
 	

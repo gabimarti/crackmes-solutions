@@ -12,6 +12,8 @@ To solve this cackme we will only use static analysis.
 
 In this case, we can verify that there is no **_main()** function, so we proceed to search for the entry point by looking in the Ghidra symbols for the word **"entry"**.
 
+This is because it has been compiled without the symbol names.
+
 ![crackme_001](crackme0x07-001.png "entry point") 
 
 Here you can see that the **FUN_00401140()** function is called and if we access it we will see that different parameters are set such as arguments, environment, access mode, etc., and finally a call to the **FUN_004014d9()** function that I will rename as **FUN_004014d9_main()** because it is the true **main()** of the program.

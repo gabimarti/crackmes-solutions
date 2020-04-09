@@ -12,6 +12,8 @@ To analyze this crackme I will use static analysis with **Ghidra** and dynamic w
 
 In this case we see that the password is not so easily visible, because after asking for the password, different operations are performed with memory values to obtain the final value with which the final comparison is made.
 
+A sum is made with the values **0x5a** and **0x1ec** and then multiplied by it to arrive at the password we need.
+
 ![crackme_001](crackme0x02-001.png "main") 
 
 Although it is true that if we help ourselves with the decompiler, it simplifies all these calculations, leaving us the evidence of the final value sought, which is **0x52b24** = **338724 dec**.

@@ -1,7 +1,8 @@
 # [evilprogrammer's mexican](https://crackmes.one/crackme/5d63011533c5d46f00e2c305)
-### https://crackmes.one/crackme/5d63011533c5d46f00e2c305
+#### https://crackmes.one/crackme/5d63011533c5d46f00e2c305
 
-## Crackme by [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
+## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+#### crackmes.one user [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 19/sep/2019 
 
 - Used **x64dbg** debugger.  

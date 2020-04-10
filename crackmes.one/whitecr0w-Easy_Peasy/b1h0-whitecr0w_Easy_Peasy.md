@@ -1,7 +1,8 @@
 # [whitecr0w Easy Peasy](https://crackmes.one/crackme/5d295dde33c5d410dc4d0d05)
-### https://crackmes.one/crackme/5d295dde33c5d410dc4d0d05
+#### https://crackmes.one/crackme/5d295dde33c5d410dc4d0d05
 
-## Crackme by [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
+## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+#### crackmes.one user [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 05/oct/2019 
 
 To analyze this file I have used **Ghidra** and **x64dbg**, simply by trying both tools and seeing the differences. It is good to contrast and train in both dynamic and static.

@@ -1,7 +1,8 @@
 # [toaster VIP_access_me](https://crackmes.one/crackme/5d0251c133c5d41c6d56e0c3)
-### https://crackmes.one/crackme/5d0251c133c5d41c6d56e0c3
+#### https://crackmes.one/crackme/5d0251c133c5d41c6d56e0c3
 
-## Crackme by [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
+## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+#### crackmes.one user [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 04/oct/2019 
 
 To analyze this file I have used two methods: *static*, with **Ghidra**, and *dynamic* with **x64dbg**. (In Ghidra there are few notes. I am still learning).

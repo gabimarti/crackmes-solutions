@@ -41,6 +41,7 @@ For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sr
 1. Win32 - **evilprogrammer** - [mexican](/crackmes.one/evilprogrammer-mexican/b1h0-evilprogrammer-mexican.md) 
 2. Win32 - **toaster** - [VIP_access_me](/crackmes.one/toaster-VIP_access_me/b1h0-toaster.vip_access_me.md)
 3. Win64 - **whitecr0w** - [Easy_Peasy](/crackmes.one/whitecr0w-Easy_Peasy/b1h0-whitecr0w_Easy_Peasy.md)
+4. Linux - **Shad3** - [Keyg3n_M1#1](/crackmes.one/Shad3-Keyg3n_M1/b1h0-Shad3-Keyg3n_M1.md)
 
 
 ###### underc0de.org
@@ -53,7 +54,7 @@ For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sr
 1. Linux - **gc** - [reverse1](/diverse/gc-reverse1/gc-reverse1.md) 
 2. Win32 - **unknown** - [Crackme#00](/diverse/crackme-00/b1h0-CrackMe%2300.md) 
 3. Win32 - **unknown** - [Crackme#01](/diverse/crackme-01/b1h0-CrackMe%2301.md) 
-4. Win32 - **unknown** - [crackme-easy-1](/diverse/crackme-easy/b1h0-crackme-easy-1.md) 
+4. Win32 - **unknown** - [crackme-easy-1](/diverse/crackme-easy/b1h0-crackme-easy-1.md) (with keygen source code)
 
 
 #### Contact

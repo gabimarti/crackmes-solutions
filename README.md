@@ -42,6 +42,7 @@ For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sr
 2. Win32 - **toaster** - [VIP_access_me](/crackmes.one/toaster-VIP_access_me/b1h0-toaster.vip_access_me.md)
 3. Win64 - **whitecr0w** - [Easy_Peasy](/crackmes.one/whitecr0w-Easy_Peasy/b1h0-whitecr0w_Easy_Peasy.md)
 4. Linux - **Shad3** - [Keyg3n_M1#1](/crackmes.one/Shad3-Keyg3n_M1/b1h0-Shad3-Keyg3n_M1.md) (with keygen source code)
+5. Linux - **oguzbey** - [Lucky Numbers](/crackmes.one/oguzbey-Lucky Numbers/b1h0-oguzbey-Lucky Numbers.md)
 
 
 ###### underc0de.org

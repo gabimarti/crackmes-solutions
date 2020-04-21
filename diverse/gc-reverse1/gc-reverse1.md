@@ -1,11 +1,15 @@
 # [gc's reverse1]()
 ### no source provided
 
+## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+
 This binary was sent to me by a friend. He was also sent another person and the source is unknown. In this same folder you can download the binary.
 
 #### Date: 03/oct/2019 
 
-To solve this crack I used my **Kali Linux VM** and the **edb debugger** that were more than enough to solve it.
+You can download **reverse1** from this [link](reverse1). 
+
+To solve this crackme I used my **Kali Linux VM** and the **edb debugger** that were more than enough to solve it.
 
 - After locating the main function we can see where the text string is loaded that asks us to enter the text and two specific call calls, one that asks for the text string and another that checks the password we have entered.
 

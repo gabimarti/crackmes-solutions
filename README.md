@@ -43,6 +43,7 @@ For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sr
 3. Win64 - **whitecr0w** - [Easy_Peasy](/crackmes.one/whitecr0w-Easy_Peasy/b1h0-whitecr0w_Easy_Peasy.md)
 4. Linux - **Shad3** - [Keyg3n_M1#1](/crackmes.one/Shad3-Keyg3n_M1/b1h0-Shad3-Keyg3n_M1.md) (with keygen source code)
 5. Linux - **oguzbey** - [Lucky Numbers](/crackmes.one/oguzbey-Lucky_Numbers/b1h0-oguzbey-Lucky_Numbers.md)
+6. Linux - **BinaryNewbie** - [Small Keygenme](/crackmes.one/BinaryNewbie-Small_Keygenme/b1h0-BinaryNewbie-Small_Keygenme.md) (with keygen source code)
 
 
 ###### underc0de.org

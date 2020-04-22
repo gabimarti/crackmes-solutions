@@ -60,8 +60,9 @@ The first one I will call **FUN_TRANSFORM**, which without knowing exactly what 
 
 I will call the second function **__DEAD__BABE__** for a specific operation it does.
 
-And finally, note a curious thing, and that is that the code has a jump to the **LAB_NOT_VALID** tag that shows us the message that the serial is not valid, but there is **no jump** to the message that indicates that the serial is correct . I will discover the secret a little later if you have not seen it at this time.
+And finally, note a curious thing, and that is that the code has a jump to the **LAB_NOT_VALID** tag that shows us the message that the serial is not valid, but there is **no jump** to the message that indicates that the serial is correct . 
 
+To hide the jump to the **"Valid !!!"** message, note that after the conditional jump there is a **PUSH** in the stack of the value **0x400248**. This is the address where the code to display this message starts and when it finds the **RET** afterwards it forces a salo to this address.
 
 ![crackme_007](img/img-007.png "LAB_NOT_VALID") 
 

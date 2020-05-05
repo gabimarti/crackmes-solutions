@@ -44,7 +44,7 @@ Here we can see that the text there is **"djejie"**. Can this be the password? S
 
 ![crackme_007](img/img-007.png "result")
 
-Here we can see how the first time it tells us that the password is incorrect, but in the next attempt if it accepts it. This is probably done to mislead the user, or perhaps it is a programmer error. In any case we already have the solution.
+Here we can see how the first time it tells us that the password is incorrect, but in the next attempt it is accepted. This is probably done to mislead the user, or perhaps it is a programmer error. In any case we already have the solution.
 
 # That's all folks!
 

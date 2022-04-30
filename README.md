@@ -62,7 +62,7 @@ For static analysis I use **Ghidra** [https://ghidra-sre.org/](https://ghidra-sr
 
 #### Contact
 
-Twitter: [**@H0l3Bl4ck**](https://twitter.com/H0l3Bl4ck)
+Twitter: [**@310hkc41b**](https://twitter.com/310hkc41b)
 
 
 #### Notice

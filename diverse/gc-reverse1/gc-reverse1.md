@@ -1,7 +1,7 @@
 # [gc's reverse1]()
 ### no source provided
 
-## Crackme writeup by [@310hkc41b]([https://twitter.com/H0l3Bl4ck](https://twitter.com/310hkc41b)) https://twitter.com/310hkc41b
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 
 This binary was sent to me by a friend. He was also sent another person and the source is unknown. In this same folder you can download the binary.
 

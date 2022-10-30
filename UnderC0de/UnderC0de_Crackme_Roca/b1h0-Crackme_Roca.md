@@ -1,7 +1,7 @@
 # [Crackme_Roca by Flamer](https://underc0de.org/foro/ingenieria-inversa/crackme_roca-by-flamer/)
 
 
-## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 #### Date: 31/mar/2020 
 
 You can download **CrackMe_Roca** from this [link](Crackme_Roca.zip). 

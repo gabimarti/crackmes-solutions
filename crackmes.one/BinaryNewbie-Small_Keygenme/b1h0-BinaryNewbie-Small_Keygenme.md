@@ -1,7 +1,7 @@
 # [BinaryNewbie Small Keygenme](https://crackmes.one/crackme/5e83f7f433c5d4439bb2e059)
 #### https://crackmes.one/crackme/5e83f7f433c5d4439bb2e059
 
-## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 #### crackmes.one user [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 22/abr/2020 
 

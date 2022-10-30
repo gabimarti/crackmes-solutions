@@ -1,7 +1,7 @@
 # [oguzbey Lucky Numbers](https://crackmes.one/crackme/5e567e1d33c5d4439bb2dca0)
 #### https://crackmes.one/crackme/5e567e1d33c5d4439bb2dca0
 
-## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 #### crackmes.one user [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 18/abr/2020 
 

@@ -1,7 +1,7 @@
 # [crackme-easy-1](#no_source_available)
 #### I do not have a source site for downloading this crackme because I do not remember how it came to me. Probably in one of these many searches I did online.
 
-## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 #### Date: 02/apr/2020 
 
 [Download **crackme-easy-1** from this link](crackme-easy-1.zip). 

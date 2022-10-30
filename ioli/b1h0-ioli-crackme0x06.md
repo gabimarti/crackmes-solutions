@@ -1,6 +1,6 @@
 # [IOLI crackme0x06](crackme0x06.exe) 
 
-## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 #### Date: 07/abr/2020 
 
 You can download **crackme0x06.exe** from this [link](crackme0x06.exe). 

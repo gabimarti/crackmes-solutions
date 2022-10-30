@@ -1,7 +1,7 @@
 # [Shad3-Keyg3n_M1#1](https://crackmes.one/crackme/5e66aea233c5d4439bb2dde8)
 #### https://crackmes.one/crackme/5e66aea233c5d4439bb2dde8
 
-## Crackme writeup by [@H0l3Bl4ck](https://twitter.com/H0l3Bl4ck) https://twitter.com/H0l3Bl4ck
+## Crackme writeup by [@310hkc41b](https://twitter.com/310hkc41b) https://twitter.com/310hkc41b
 #### crackmes.one user [b1h0](https://crackmes.one/user/b1h0) https://crackmes.one/user/b1h0
 #### Date: 10/abr/2020 
 

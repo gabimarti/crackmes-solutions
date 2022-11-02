@@ -13,6 +13,8 @@ To solve this crackme I used my **Kali Linux VM**, **Ghidra** and **CyberChef** 
 
 There is a writing in medium with the resolution of this. I'm sorry, it's only in Spanish. Maybe one day I'll put the translation here.
 
+This is a first solution using static analysis.
+
 [Ingeniería inversa de un “crackme” (parte 1)](https://medium.com/@gabimarti/ingeniería-inversa-de-un-crackme-parte-1-fbd1d32a0de7)
 
 
